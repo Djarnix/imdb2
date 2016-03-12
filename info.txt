@@ -1,0 +1,18 @@
+//mysql
+MySQL 5.5 database added.  Please make note of these credentials:
+
+       Root User: adminWgFRt6l
+   Root Password: uikzXtnw3Q5v
+   Database Name: imdb
+
+Connection URL: mysql://$OPENSHIFT_MYSQL_DB_HOST:$OPENSHIFT_MYSQL_DB_PORT/
+
+You can manage your new MySQL database by also embedding phpmyadmin.
+The phpmyadmin username and password will be the same as the MySQL credentials above.
+
+
+//phpmyadmin
+Please make note of these MySQL credentials again:
+  Root User: adminWgFRt6l
+  Root Password: uikzXtnw3Q5v
+URL: https://imdb-stormfury.rhcloud.com/phpmyadmin/
